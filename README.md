@@ -1,1 +1,2 @@
-"# CardFlipGame" 
+"CardFlipGame" 
+Simple Card Flip Game Demo
